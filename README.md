@@ -1,0 +1,4 @@
+SpringExample
+=============
+
+Checking build
